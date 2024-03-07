@@ -1,4 +1,4 @@
-# TeachMeSkills_C26_Lesson_7_HW
+# TeachMeSkills_C27_Lesson_7_HW
 Homework for the seventh 
 
 task 1.
